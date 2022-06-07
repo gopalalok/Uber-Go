@@ -24,23 +24,10 @@ Then select your destination address
 ![alt text](https://i.postimg.cc/HWrYVf5v/Uber-Go-img4.png)
 
 ## Step 5: 
-Then select your destination address
+Then select your destination address5
 
 ![alt text](https://i.postimg.cc/MKRzYV9y/Uber-Go-img5.png)
 
-## Step 6: 
-Then select your destination address
 
-![alt text](https://i.postimg.cc/QtH3KTBK/Uber-Go-img6.png)
-
-## Step 7: 
-Then select your destination address1
-
-![alt text](https://i.postimg.cc/C1XVGxDP/Uber-Go-img7.png)
-
-## Step 8: 
-Then select your destination address
-
-![alt text](https://i.postimg.cc/jj8TjXjr/Uber-Go-img8.png)
 
 
