@@ -36,6 +36,7 @@ Then select your destination address
 Then select your destination address1
 
 ![alt text](https://i.postimg.cc/C1XVGxDP/Uber-Go-img7.png)
+<img src="https://i.postimg.cc/C1XVGxDP/Uber-Go-img7.png" width="48">
 
 ## Step 8: 
 Then select your destination address
